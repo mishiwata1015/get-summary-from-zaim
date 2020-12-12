@@ -1,0 +1,8 @@
+{
+  "name": "get-summary-from-zaim",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mishiwata1015/get-summary-from-zaim.git",
+  "author": "Masanori Ishiwata <mishiwata1015@gmail.com>",
+  "license": "MIT"
+}
