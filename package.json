@@ -6,6 +6,7 @@
   "author": "Masanori Ishiwata <mishiwata1015@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "dotenv": "^8.2.0",
     "puppeteer": "^5.5.0"
   }
 }
